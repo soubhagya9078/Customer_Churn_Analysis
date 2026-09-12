@@ -208,8 +208,8 @@ pip install -r requirements.txt
 
 
 ### Open Jupyter Notebook
-jupyter notebook
-Insert dataset into Pandas and clean and do EDA analysis
+jupyter notebook:
+
 Churn_Analysis.ipynb
 
 ### Run SQL Scripts
@@ -239,8 +239,8 @@ Aspiring Data Analyst passionate about transforming raw data into actionable bus
 
 ### Connect with me
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-linkedin
+- GitHub: https://github.com/soubhagya9078
+- LinkedIn: https://www.linkedin.com/in/soubhagya-samal-2378aa2b5/
 
 
 ## If you found this project useful, consider giving it a Star!
