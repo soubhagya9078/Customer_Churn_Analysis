@@ -142,6 +142,8 @@ The interactive dashboard includes:
 - Payment Method
 - Senior Citizen
 
+#  Dashboard Preview
+<img width="1315" height="738" alt="Screenshot 2026-09-12 105709" src="https://github.com/user-attachments/assets/3d64607b-1fd3-478a-b103-773c328379a6" />
 
 
 # Key Business Insights
