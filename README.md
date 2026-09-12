@@ -196,7 +196,7 @@ Telecom-Customer-Churn-Analysis/
 # How to Run
 
 ### Clone the Repository
-git clone https://github.com/your-username/Telecom-Customer-Churn-Analysis.git
+git clone https://github.com/soubhagya9078/Telecom-Customer-Churn-Analysis.git
 
 
 ### Navigate to the Project
